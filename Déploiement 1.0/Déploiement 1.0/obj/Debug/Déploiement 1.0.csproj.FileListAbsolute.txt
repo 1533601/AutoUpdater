@@ -1,0 +1,20 @@
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\bin\Debug\Déploiement 1.0.exe.config
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\bin\Debug\Déploiement 1.0.exe.manifest
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\bin\Debug\Déploiement 1.0.application
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\bin\Debug\Déploiement 1.0.exe
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\bin\Debug\Déploiement 1.0.pdb
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement 1.0.csproj.AssemblyReference.cache
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement 1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\MainWindow.g.cs
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\App.g.cs
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement 1.0_MarkupCompile.cache
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement 1.0_MarkupCompile.lref
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\MainWindow.baml
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement 1.0.g.resources
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement_1._0.Properties.Resources.resources
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement 1.0.csproj.GenerateResource.cache
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement 1.0.csproj.CoreCompileInputs.cache
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement 1.0.exe.manifest
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement 1.0.application
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement 1.0.exe
+C:\Users\1533601\Desktop\AutoUpdater\Déploiement 1.0\Déploiement 1.0\obj\Debug\Déploiement 1.0.pdb
